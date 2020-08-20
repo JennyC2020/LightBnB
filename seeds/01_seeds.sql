@@ -1,7 +1,7 @@
 INSERT INTO users (id, name, email, password) 
- VALUES (1, 'Frank Jones','frank_jones@jones.com','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u'),
- (2, 'Annie Boudin','annie_b@rottera.com','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u'),
- (3, 'Janes Billing','billjanes@gmail.com','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u');
+ VALUES (1, 'Frank Jones','frank_jones@jones.com','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.'),
+ (2, 'Annie Boudin','annie_b@rottera.com','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.'),
+ (3, 'Janes Billing','billjanes@gmail.com','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.');
 
 
 
